@@ -6,3 +6,5 @@
 3. Appliquer les migrations : `symfony console d:m:m -n`
 4. Charger les fixtures : `symfony console d:f:l`
 5. Démarrer le serveur : `symfony serve`
+
+L'api est accessible via https://localhost:8000/api
